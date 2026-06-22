@@ -245,7 +245,7 @@
 
 🔹 LeetCode: https://leetcode.com/u/Lekha15/
 
-🔹 HackerRank: https://www.hackerrank.com/
+🔹 HackerRank: https://www.hackerrank.com/profile/lekhapandic
 
 ---
 
