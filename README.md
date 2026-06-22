@@ -1,140 +1,207 @@
 # Hi 👋, I'm Lekha
 
-### 🚀 Java Backend Developer | DevOps Enthusiast | Problem Solver
+### 🚀 Software Engineer | Java Backend Developer | Cloud & DevOps
 
 <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-🎓 Final Year Engineering Student
+🎓 Computer Science Engineering Student
 
-💻 Passionate about Java Backend Development and DevOps
+💻 Passionate about Java Backend Development, Cloud Computing, and DevOps
 
-🌱 Currently learning Spring Boot, Docker, Kubernetes, and Cloud Technologies
+🧠 Strong foundation in Data Structures & Algorithms, OOP, DBMS, OS, and SQL
 
-🧠 Strong foundation in Data Structures & Algorithms
+⚙️ Experienced in building RESTful APIs and backend applications using Spring Boot
 
-⚙️ Interested in building scalable and efficient systems
+☁️ Hands-on experience with Docker, Terraform, AWS, CI/CD Pipelines, and Monitoring Tools
 
-📈 Continuously improving through projects, coding practice, and hands-on learning
+📈 Solved 240+ DSA problems on LeetCode and continuously improving problem-solving skills
 
-🎯 Goal: Become a Software Engineer specializing in Backend & Cloud Infrastructure
+🌱 Currently learning Microservices, Kubernetes, Jenkins, and System Design
+
+🎯 Aspiring Software Engineer specializing in Backend Development and Cloud Infrastructure
 
 ---
 
-## 🧠 Focus Areas
+## 🧠 Areas of Interest
 
 ☕ Java Backend Development
 
 🔄 REST API Development
 
+🏗️ Scalable Backend Systems
+
 🗄️ Database Design & Optimization
+
+☁️ Cloud Computing
 
 🐳 Containerization with Docker
 
-☸️ Kubernetes Fundamentals
+☸️ Kubernetes
 
 ⚙️ CI/CD Automation
 
-🐧 Linux & System Administration
+📊 Monitoring & Observability
 
-📊 Data Structures & Algorithms
+📚 Data Structures & Algorithms
 
 ---
 
-## 💻 Languages
+## 💻 Tech Stack
+
+### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java" />
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=javascript" />
+  <img src="https://skillicons.dev/icons?i=c" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
----
-
-## ⚙️ Backend Technologies
+### Java Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,spring,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql" />
 </p>
 
-- Java
-- JDBC
-- Servlets
-- Spring Boot (Learning)
-- REST APIs
-- MySQL
+* Core Java
+* OOP
+* Collections Framework
+* Exception Handling
+* JDBC
+* Servlets
+* Spring Boot
+* Spring MVC
+* Spring Data JPA
+* REST APIs
+* Hibernate (Basics)
 
----
-
-## 🚀 DevOps Stack
+### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,jenkins,git,github,bash" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-- Linux
-- Docker
-- Kubernetes
-- Jenkins
-- Git & GitHub
-- Bash Scripting
-- CI/CD Fundamentals
+* MySQL
+* MongoDB
 
----
-
-## 🗄️ Database Technologies
+### Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,terraform,git,github,linux,bash" />
 </p>
 
-- MySQL
-- MongoDB
+* Docker
+* Docker Compose
+* GitHub Actions
+* Terraform
+* AWS EC2
+* AWS S3
+* AWS VPC
+* AWS IAM
+* Linux
+* Bash Scripting
+* Git & GitHub
 
----
+### Monitoring & Observability
 
-## 🛠️ Tools & Platforms
+* Prometheus
+* Grafana
+* Node Exporter
+* cAdvisor
+* Alertmanager
+
+### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,postman,git,github" />
+  <img src="https://skillicons.dev/icons?i=idea,vscode,git,github" />
 </p>
+
+* IntelliJ IDEA
+* Maven
+* Postman
+* VS Code
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-### 🏢 Employee Management System
-- Java + JDBC + MySQL
-- CRUD Operations
-- Database Connectivity
+### 🏢 Employee Payroll Management System
 
-### 📚 Library Management System
-- Java OOP Project
-- Book & User Management
-- Exception Handling
+**Tech Stack:** Java, Spring Boot, Spring Data JPA, MySQL, REST APIs, Maven
 
-### 🐳 Dockerized Java Application
-- Containerized Java Application
-- Docker Images & Containers
-- Deployment Practice
+* Developed a payroll management backend application.
+* Implemented complete CRUD operations for employee records.
+* Designed layered architecture using Controller, Service, and Repository layers.
+* Integrated MySQL using Spring Data JPA.
+* Tested APIs using Postman.
 
-### ⚙️ CI/CD Pipeline Demo
-- GitHub + Jenkins
-- Automated Build & Deployment Workflow
+---
 
-### 🌐 DevOps Practice Labs
-- Linux Administration
-- Docker Networking
-- Kubernetes Basics
+### 🔗 URL Shortener REST API
+
+**Tech Stack:** Java, Spring Boot, Thymeleaf, MySQL, Docker, REST APIs
+
+* Built a URL shortening service similar to Bitly.
+* Implemented Base62 encoding for short URL generation.
+* Added URL validation and duplicate prevention.
+* Containerized the application using Docker.
+* Integrated Spring Boot Actuator for monitoring.
+
+---
+
+### 🏦 Bank Management System
+
+**Tech Stack:** Java, JDBC, MySQL
+
+* Developed a console-based banking application.
+* Implemented account management and transaction processing.
+* Added authentication and secure database operations.
+* Applied OOP principles and JDBC connectivity.
+
+---
+
+### ⚙️ Node.js Todo App – CI/CD Pipeline
+
+**Tech Stack:** Docker, GitHub Actions, DockerHub, Linux, Node.js
+
+* Containerized the application using Docker.
+* Built automated CI/CD workflows with GitHub Actions.
+* Automated Docker image build and deployment.
+* Integrated testing into the deployment pipeline.
+
+---
+
+### ☁️ AWS Cloud Infrastructure Provisioning
+
+**Tech Stack:** Terraform, AWS EC2, S3, VPC, IAM, Linux
+
+* Provisioned AWS infrastructure using Terraform.
+* Created VPC, Subnet, Security Groups, EC2, and S3 resources.
+* Automated Apache installation using User Data scripts.
+* Implemented Infrastructure as Code (IaC) practices.
+
+---
+
+### 📊 System Monitoring Stack
+
+**Tech Stack:** Prometheus, Grafana, Docker Compose, Node Exporter, Alertmanager
+
+* Built a complete monitoring and observability solution.
+* Collected real-time server and container metrics.
+* Created Grafana dashboards for visualization.
+* Configured Alertmanager for automated alerts.
 
 ---
 
 ## 📚 Currently Learning
 
 ✅ Advanced Java
+
+✅ Spring Security
 
 ✅ Spring Boot
 
@@ -146,15 +213,31 @@
 
 ✅ Jenkins
 
-✅ AWS Cloud Fundamentals
+✅ AWS Cloud Services
+
+✅ System Design Fundamentals
+
+✅ Data Structures & Algorithms
+
+---
+
+## 🏆 Achievements
+
+🏅 Solved 227+ DSA Problems on LeetCode
+
+🏅 HackerRank Java (Basic) Certified
+
+🏅 Lean Six Sigma Certified
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lekha15-cse\&show_icons=true\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Lekha15-cse\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lekha15-cse\&layout=compact\&theme=tokyonight)
 
 ---
 
@@ -162,13 +245,15 @@
 
 🔹 LeetCode: https://leetcode.com/u/Lekha15/
 
+🔹 HackerRank: https://www.hackerrank.com/
+
 ---
 
 ## 🔗 Connect With Me
 
 💼 LinkedIn: https://www.linkedin.com/in/lekha-p-b8984528a/
 
-📧 Email: lekhapandic@gmail.com
+📧 Email: [lekhapandic@gmail.com](mailto:lekhapandic@gmail.com)
 
 💻 GitHub: https://github.com/Lekha15-cse
 
@@ -178,4 +263,4 @@
 
 > "Consistency beats intensity. Small improvements every day lead to remarkable results."
 
-⭐ Always Learning | Always Building | Always Improving
+⭐ Always Learning • Always Building • Always Improving
